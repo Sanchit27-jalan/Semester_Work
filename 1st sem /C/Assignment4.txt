@@ -1,0 +1,6 @@
+Email				RollNo	Marks1	Marks2	Marks3
+sanchit@gmail.com	70		100		50		95
+mananan@gmail.com	103		90		80		100
+harshit@gmail.com	124		95		85		90
+karanni@gmail.com	112		90		76		69
+maitrey@gmail.com	125		70		50		33

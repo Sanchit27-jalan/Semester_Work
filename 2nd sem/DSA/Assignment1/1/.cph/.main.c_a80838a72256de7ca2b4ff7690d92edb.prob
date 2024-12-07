@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/Users/sanchitjalan/Desktop/DSA/Assignment1/Q1/main.c","tests":[{"id":1680086598452,"input":"1\nOPER5\n10\n1 4 8 7 5 9 17 11 40 10","output":"0 1 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sanchitjalan/Desktop/DSA/Assignment1/Q1/main.c","group":"local","local":true}

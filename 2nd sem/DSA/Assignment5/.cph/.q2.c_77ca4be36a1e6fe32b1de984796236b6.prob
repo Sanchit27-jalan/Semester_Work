@@ -1,0 +1,1 @@
+{"name":"Local: q2","url":"/Users/sanchitjalan/Desktop/DSA/Assignment5/q2.c","tests":[{"id":1686526969163,"input":"1\n6 6\n1 2 1 3 3 3\n1 1 1 3 5 3\n1 7 4 5 3 3\n1 9 2 6 4 4\n11 10 12 13 4 8\n11 10 12 13 4 4","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sanchitjalan/Desktop/DSA/Assignment5/q2.c","group":"local","local":true}
